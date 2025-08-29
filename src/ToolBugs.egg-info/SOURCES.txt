@@ -1,6 +1,0 @@
-README.md
-pyproject.toml
-src/ToolBugs.egg-info/PKG-INFO
-src/ToolBugs.egg-info/SOURCES.txt
-src/ToolBugs.egg-info/dependency_links.txt
-src/ToolBugs.egg-info/top_level.txt
