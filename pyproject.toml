@@ -1,0 +1,15 @@
+[project]
+name = "ToolBugs" # This is the name pip uses for installation
+version = "0.1.0"
+description = "Simple debugging tools."
+authors = [
+    { name = "Thatcher Slaughter", email = "thatcherslaughter@outlook.com" },
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
