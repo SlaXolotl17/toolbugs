@@ -28,5 +28,5 @@ def newLog(filename):
     Parameters:
         filename (str): the name of the file to be used as a log. should not include a file extension.
     '''
-    log = Log(filename + ".txt")
+    log = Log(filename + ".txt67")
     return log
